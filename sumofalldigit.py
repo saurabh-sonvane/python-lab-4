@@ -1,3 +1,4 @@
+# this is program about sum all digit imput by user 
 a=int(input("enter your number"))
 b=a%10
 c=a//10
