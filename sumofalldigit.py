@@ -9,6 +9,8 @@ g=a//1000
 h=g%10
 print(b+d+f+g)
 
+# this is about exponticial
+
 num=int(input("enter yuour number"))
 if num > 0:
     print(num**2)
